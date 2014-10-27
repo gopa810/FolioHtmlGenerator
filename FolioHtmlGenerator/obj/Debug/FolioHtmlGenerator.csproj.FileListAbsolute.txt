@@ -1,0 +1,8 @@
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\bin\Debug\FolioHtmlGenerator.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\bin\Debug\FolioHtmlGenerator.pdb
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\FolioHtmlGenerator.Form1.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\FolioHtmlGenerator.Properties.Resources.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\FolioHtmlGenerator.csproj.GenerateResource.Cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\FolioHtmlGenerator.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\FolioHtmlGenerator\FolioHtmlGenerator\obj\Debug\FolioHtmlGenerator.pdb
